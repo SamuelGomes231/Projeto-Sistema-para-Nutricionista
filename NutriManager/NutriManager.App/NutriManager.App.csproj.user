@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup />
+  <ItemGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Update="Base\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\AlimentoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\ConfigurarRefeicoesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\ConsultaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\PacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\PlanoAlimentarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\ProntuarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\VisualizarBioimpedanciaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\VisualizarDobrasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register\VisualizarMedidasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

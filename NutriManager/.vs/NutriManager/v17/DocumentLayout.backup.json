@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\infra\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\infra\\configuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\consultaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\consultaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\nutrimanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\refeicaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\refeicaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\planoalimentarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\planoalimentarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\pacienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\pacienteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\medidasantropometricasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\medidasantropometricasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\dobrascutaneasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\dobrascutaneasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\consultaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\consultaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\bioimpedanciaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\bioimpedanciaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\viewmodel\\alimentoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\viewmodel\\alimentoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\visualizarmedidasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\visualizarmedidasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\visualizardobrasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\visualizardobrasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\visualizarbioimpedanciaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\visualizarbioimpedanciaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\prontuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\prontuarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\planoalimentarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\planoalimentarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\pacienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\pacienteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\register\\alimentoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\register\\alimentoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|e:\\projeto final - sistema para nutricionista\\nutrimanager\\nutrimanager.app\\base\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\base\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\nutrimanager.app\\base\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74BF6902-EC61-4691-9BCD-4819404CD529}|NutriManager.App\\NutriManager.App.csproj|solutionrelative:nutrimanager.app\\base\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefeicaoViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\RefeicaoViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\RefeicaoViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\RefeicaoViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\RefeicaoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacienteViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\PacienteViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\PacienteViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\PacienteViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\PacienteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:07.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureDI.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Infra\\ConfigureDI.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Infra\\ConfigureDI.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Infra\\ConfigureDI.cs",
+              "RelativeToolTip": "NutriManager.App\\Infra\\ConfigureDI.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:22:47.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanoAlimentarViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\PlanoAlimentarViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\PlanoAlimentarViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\PlanoAlimentarViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\PlanoAlimentarViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:09.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\MainForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\MainForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\MainForm.cs",
+              "RelativeToolTip": "NutriManager.App\\MainForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\ConsultaForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\ConsultaForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\ConsultaForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\ConsultaForm.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwCwBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:24:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Projeto]",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\MainForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\MainForm.cs",
+              "ToolTip": "E:\\Arquivos_PENDRIVE\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\MainForm.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\Arquivos_PENDRIVE\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\MainForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:15.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedidasAntropometricasViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\MedidasAntropometricasViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\MedidasAntropometricasViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\MedidasAntropometricasViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\MedidasAntropometricasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:06.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DobrasCutaneasViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\DobrasCutaneasViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\DobrasCutaneasViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\DobrasCutaneasViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\DobrasCutaneasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:05.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultaViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\ConsultaViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\ConsultaViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\ConsultaViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\ConsultaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:04.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BioimpedanciaViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\BioimpedanciaViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\BioimpedanciaViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\BioimpedanciaViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\BioimpedanciaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlimentoViewModel.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\AlimentoViewModel.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\ViewModel\\AlimentoViewModel.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\ViewModel\\AlimentoViewModel.cs",
+              "RelativeToolTip": "NutriManager.App\\ViewModel\\AlimentoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:28:02.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VisualizarMedidasForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\VisualizarMedidasForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\VisualizarMedidasForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\VisualizarMedidasForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\VisualizarMedidasForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:27:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VisualizarDobrasForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\VisualizarDobrasForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\VisualizarDobrasForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\VisualizarDobrasForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\VisualizarDobrasForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:27:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VisualizarBioimpedanciaForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\VisualizarBioimpedanciaForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\VisualizarBioimpedanciaForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\VisualizarBioimpedanciaForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\VisualizarBioimpedanciaForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:27:29.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProntuarioForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\ProntuarioForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\ProntuarioForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\ProntuarioForm.cs*",
+              "RelativeToolTip": "NutriManager.App\\Register\\ProntuarioForm.cs*",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:27:05.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlanoAlimentarForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\PlanoAlimentarForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\PlanoAlimentarForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\PlanoAlimentarForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\PlanoAlimentarForm.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:26:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PacienteForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\PacienteForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\PacienteForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\PacienteForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\PacienteForm.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwJEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:25:12.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\DashboardForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\DashboardForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\DashboardForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:24:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AlimentoForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\AlimentoForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Register\\AlimentoForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Register\\AlimentoForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Register\\AlimentoForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwDoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:23:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Base\\BaseForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Base\\BaseForm.cs",
+              "ToolTip": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Base\\BaseForm.cs",
+              "RelativeToolTip": "NutriManager.App\\Base\\BaseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:20:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseForm.cs [Projeto]",
+              "DocumentMoniker": "E:\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Base\\BaseForm.cs",
+              "RelativeDocumentMoniker": "NutriManager.App\\Base\\BaseForm.cs",
+              "ToolTip": "E:\\Arquivos_PENDRIVE\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Base\\BaseForm.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\Arquivos_PENDRIVE\\Projeto Final - SIstema para Nutricionista\\NutriManager\\NutriManager.App\\Base\\BaseForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T02:20:41.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
